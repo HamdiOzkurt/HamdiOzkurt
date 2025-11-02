@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Ahmet Hamdi 👋
+# Hi there, I'm Ahmet Hamdi 
 
 I build end-to-end projects in Artificial Intelligence (AI), Large Language Models (LLMs), and mobile app development, leveraging technologies like Python and Dart. My passion is to create intelligent, data-driven systems and user-friendly mobile solutions to advance my career in the tech industry.
 
