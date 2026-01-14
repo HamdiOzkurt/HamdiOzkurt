@@ -1,48 +1,33 @@
-# Hi there, I'm Ahmet Hamdi
+# Ahmet Hamdi Özkurt 🚀
 
-### AI & Full-Stack Developer | LLM & RAG Architect | Automation Specialist
+### AI Solutions Architect | Full-Stack Engineer
 
-I bridge the gap between complex AI research and production-grade applications. I build end-to-end intelligent systems using **Python**, **JavaScript (Node.js/React)**, and **Dart (Flutter)**.
-
----
-
-### What I'm working on:
-- **Generative AI & LLMs:** Building custom Transformer architectures from scratch and fine-tuning models (Unsloth, DoRA).
-- **Advanced RAG Systems:** Architecting enterprise-level Retrieval-Augmented Generation systems with **LangGraph** and **Vector Databases**.
-- **Full-Stack AI Apps:** Developing real-time AI backends with **FastAPI** and **Node.js**, and cross-platform mobile apps with **Flutter**.
-- **AI Automation:** Streamlining business workflows using **n8n** and custom Python/Node.js scripts.
+I build production-grade AI systems, focusing on **LLM Architectures**, **Agentic Workflows**, and **Scalable Backends**.
 
 ---
 
-### Languages & Tools:
+### 💻 Tech Stack & Tools
 
-**Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-**AI & Data Science:**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Platforms:**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) |
+| **DevOps & DB** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Mobile & Web** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
 
 ---
 
-### Featured Projects:
-- **[Oracle SCM RAG](https://github.com/HamdiOzkurt/Oracle-Rag-Finetuned):** Enterprise-grade RAG system with fine-tuned models and hallucination control.
-- **[Beauty AI Backend](https://github.com/HamdiOzkurt/Beauty-Ai-Backend-v2):** Real-time voice & text agent built with LangGraph, FastAPI, and WebSockets.
-- **[LLM Analytics Dashboard](https://github.com/HamdiOzkurt/LLM-Monitoring-Dashboard):** Real-time monitoring backend for LLM APIs using Node.js and Socket.io.
-- **[LLM From Scratch](https://github.com/HamdiOzkurt/LLM-Development-From-Scratch):** Implementation of a GPT-style Transformer using PyTorch.
+### 🛠️ Key Expertise
+- **Generative AI:** Building Transformers from scratch & Fine-tuning (Unsloth/DoRA).
+- **RAG Systems:** Enterprise-grade retrieval pipelines with LangGraph.
+- **AI Automation:** Real-time Voice Agents & n8n business workflows.
 
+---
 
+### 📈 GitHub Stats & Contact
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamdiozkurt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hamdi Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdiozkurt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
+</p>
 
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmethamdiozkurt/) [![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01145014f7e327f67b)
