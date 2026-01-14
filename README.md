@@ -1,4 +1,4 @@
-# Ahmet Hamdi Özkurt 🚀
+# Ahmet Hamdi Özkurt
 
 ### AI Solutions Architect | Full-Stack Engineer
 
@@ -6,7 +6,7 @@ I build production-grade AI systems, focusing on **LLM Architectures**, **Agenti
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 | Category | Tools & Languages |
 | :--- | :--- |
@@ -24,10 +24,3 @@ I build production-grade AI systems, focusing on **LLM Architectures**, **Agenti
 
 ---
 
-### 📈 GitHub Stats & Contact
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamdiozkurt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hamdi Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdiozkurt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmethamdiozkurt/) [![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01145014f7e327f67b)
