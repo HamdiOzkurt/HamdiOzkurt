@@ -43,10 +43,6 @@ I bridge the gap between complex AI research and production-grade applications. 
 - **[LLM Analytics Dashboard](https://github.com/HamdiOzkurt/LLM-Monitoring-Dashboard):** Real-time monitoring backend for LLM APIs using Node.js and Socket.io.
 - **[LLM From Scratch](https://github.com/HamdiOzkurt/LLM-Development-From-Scratch):** Implementation of a GPT-style Transformer using PyTorch.
 
----
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmethamdiozkurt/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01145014f7e327f67b)
 
-![Profile views](https://komarev.com/ghpvc/?username=Hamdiozkurt&color=blue)
+
