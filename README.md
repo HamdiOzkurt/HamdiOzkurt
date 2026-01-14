@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmet Hamdi 👋
+# Hi there, I'm Ahmet Hamdi
 
 ### AI & Full-Stack Developer | LLM & RAG Architect | Automation Specialist
 
@@ -6,7 +6,7 @@ I bridge the gap between complex AI research and production-grade applications. 
 
 ---
 
-### 🚀 What I'm working on:
+### What I'm working on:
 - **Generative AI & LLMs:** Building custom Transformer architectures from scratch and fine-tuning models (Unsloth, DoRA).
 - **Advanced RAG Systems:** Architecting enterprise-level Retrieval-Augmented Generation systems with **LangGraph** and **Vector Databases**.
 - **Full-Stack AI Apps:** Developing real-time AI backends with **FastAPI** and **Node.js**, and cross-platform mobile apps with **Flutter**.
@@ -14,7 +14,7 @@ I bridge the gap between complex AI research and production-grade applications. 
 
 ---
 
-### 🛠️ Languages & Tools:
+### Languages & Tools:
 
 **Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,7 +37,7 @@ I bridge the gap between complex AI research and production-grade applications. 
 
 ---
 
-### 📈 Featured Projects:
+### Featured Projects:
 - **[Oracle SCM RAG](https://github.com/HamdiOzkurt/Oracle-Rag-Finetuned):** Enterprise-grade RAG system with fine-tuned models and hallucination control.
 - **[Beauty AI Backend](https://github.com/HamdiOzkurt/Beauty-Ai-Backend-v2):** Real-time voice & text agent built with LangGraph, FastAPI, and WebSockets.
 - **[LLM Analytics Dashboard](https://github.com/HamdiOzkurt/LLM-Monitoring-Dashboard):** Real-time monitoring backend for LLM APIs using Node.js and Socket.io.
@@ -45,7 +45,7 @@ I bridge the gap between complex AI research and production-grade applications. 
 
 ---
 
-### 📫 Connect with me:
+### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmethamdiozkurt/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01145014f7e327f67b)
 
