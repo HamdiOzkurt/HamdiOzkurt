@@ -17,7 +17,7 @@ I build production-grade AI systems, focusing on **LLM Architectures**, **Agenti
 
 ---
 
-### 🛠️ Key Expertise
+###  Key Expertise
 - **Generative AI:** Building Transformers from scratch & Fine-tuning (Unsloth/DoRA).
 - **RAG Systems:** Enterprise-grade retrieval pipelines with LangGraph.
 - **AI Automation:** Real-time Voice Agents & n8n business workflows.
