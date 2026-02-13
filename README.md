@@ -1,6 +1,6 @@
 # Ahmet Hamdi Özkurt
 
-### AI Solutions Architect | Full-Stack Engineer
+### AI Developer
 
 I build production-grade AI systems, focusing on **LLM Architectures**, **Agentic Workflows**, and **Scalable Backends**.
 
